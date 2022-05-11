@@ -1,5 +1,9 @@
-### Hi there 👋
-
+[![MasterHead](https://media.discordapp.net/attachments/933167542128758874/974059479337406554/banner.png?width=1134&height=378)](https://github.com/Tehuberjohn)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tehuberjohn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
 <!--
 **Tehuberjohn/tehuberjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
